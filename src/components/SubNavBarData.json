@@ -1,11 +1,11 @@
 [
   {
     "name": "GitHub",
-    "documentationUrl": "https://modranjan.github.io/learning-Bootstrap/",
+    "documentationUrl": "https://www.w3schools.com/git/git_getstarted.asp?remote=github",
     "topics": [
       {
         "name": "My Work",
-        "link": "https://modranjan.github.io/learning-Bootstrap/"
+        "link": "/"
       }
     ]
   },
@@ -32,27 +32,42 @@
         "link": "https://docs.soliditylang.org/en/v0.8.14/"
       },
       { "name": "etherJs", "link": "https://docs.ethers.io/v5/" },
-      { "name": "web3", "link": "https://web3js.readthedocs.io/en/v1.7.0/" }
+      { "name": "web3", "link": "https://web3js.readthedocs.io/en/v1.7.0/" },
+      {
+        "name": "my work",
+        "link": "https://github.com/tusharmahajan8359/Solidity"
+      }
     ]
   },
   {
     "name": "Solidity",
     "documentationUrl": "https://docs.soliditylang.org/en/v0.8.14/",
-    "topics": [{ "name": "Remix" }]
+    "topics": [
+      { "name": "Remix", "link": "https://remix-project.org/" },
+      { "name": "Hardhat", "link": "https://hardhat.org/getting-started" }
+    ]
   },
   {
     "name": "React",
     "documentationUrl": "",
     "topics": [
-      { "name": "Router", "link": "" },
-      { "name": "Redux", "link": "" }
+      { "name": "Router", "link": "https://reactrouter.com/docs/en/v6" },
+      { "name": "Redux", "link": "" },
+      { "name": "Hooks-video", "link": "https://youtu.be/LlvBzyy-558" },
+      {
+        "name": "Hooks-docs",
+        "link": "https://www.w3schools.com/react/react_hooks.asp"
+      }
     ]
   },
   {
     "name": "nodeJs",
-    "documentationUrl": "",
+    "documentationUrl": "https://www.w3schools.com/nodejs/",
     "topics": [
-      { "name": "Express", "link": "" },
+      {
+        "name": "Express",
+        "link": "https://www.javatpoint.com/expressjs-request"
+      },
       { "name": "MySql", "link": "" },
       { "name": "GraphQl", "link": "https://graphql.org/learn/" },
       { "name": "PostGress", "link": "https://www.postgresqltutorial.com/" },
@@ -74,7 +89,14 @@
   },
   {
     "name": "My Works",
-    "documentationUrl": "",
-    "topics": [{ "name": "Oaisis", "link": "" }]
+    "documentationUrl": "https://i.giphy.com/media/gj0QdZ9FgqGhOBNlFS/giphy.webp",
+    "topics": [
+      { "name": "Oaisis", "link": "" },
+      { "name": "Flipcart", "link": "https://tushar-flipcart.netlify.app/" },
+      {
+        "name": "Scientific-Calc",
+        "link": "https://tusharmahajan8359.github.io/scientific-calc/"
+      }
+    ]
   }
 ]
